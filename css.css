@@ -1,0 +1,23 @@
+body{
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    background-image: url("file:///C:/Users/User/Documents/Sin%20t%C3%ADtulo-1.png");
+}
+.principal{
+    border: solid;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color:white
+}
+
+.opciones{
+    text-align: center;
+}
+.cantidad{
+    
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.boton{
+    height: 30px;
+    padding: 5px;
+}
